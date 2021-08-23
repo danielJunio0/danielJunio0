@@ -2,7 +2,6 @@
 
 - 🔭 Hoje sou desenvolvedor full stack
 - 🌱 Atualmente estudo React js
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/danieljunio0">
