@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Daniel
 
 - 🔭 Hoje sou desenvolvedor full stack
-- 🌱 Atualmente estudo React js
 
 <div>
   <a href="https://github.com/danieljunio0">
