@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Daniel
 
 - 🔭 Hoje sou desenvolvedor full stack
+- React Js, React Native, .NET.
 
 <div>
   <a href="https://github.com/danieljunio0">
