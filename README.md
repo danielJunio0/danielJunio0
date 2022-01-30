@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Daniel
 
-- 🔭 Hoje sou desenvolvedor full stack
+- 🔭 Desenvolvedor full stack
 - React Js, React Native, .NET.
 
 <div>
