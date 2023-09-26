@@ -7,7 +7,7 @@
 [<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://developer.mozilla.org/en-US/docs/Web/javascript) 
 [<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/) 
-[<img alt=".NET" src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>](https://www.microsoft.com/pt-BR/download/details.aspx?id=30653) 
+[<img alt=".NET" src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/>](https://www.microsoft.com/pt-BR/download/details.aspx?id=30653) 
 
 ### Libs & Frameworks
 [<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://react.dev/) 
