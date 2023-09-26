@@ -15,7 +15,8 @@
 
 ### Databases
 [<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) 
-[<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%230064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>](https://www.postgresql.org/) 
+[<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%230064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>](https://www.postgresql.org/)
+[<img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server%20-%230064a5.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>](https://www.microsoft.com/pt-br/sql-server/sql-server-2022)
 
 ## 📈 Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieljunio0&theme=default)
