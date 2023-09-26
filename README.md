@@ -9,12 +9,9 @@
 [<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
 
 ### Libs & Frameworks
-[<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://react.dev/) 
-[<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>](https://www.djangoproject.com/) 
-[<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>](https://nodejs.org/en/) 
+[<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://react.dev/)
+[<img alt="React Native" src="https://img.shields.io/badge/react-native%20-%2320232a.svg?&style=for-the-badge&logo=react-native&logoColor=%2361DAFB"/>](https://reactnative.dev/)
 [<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>](https://redux.js.org/) 
-[<img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />](https://nextjs.org/)
-[<img alt="Nest" src="https://img.shields.io/badge/nestjs%20-%23bd082c.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />](https://nestjs.com/)
 
 ### Databases
 [<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) 
