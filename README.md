@@ -10,8 +10,8 @@
 
 ### Libs & Frameworks
 [<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://react.dev/)
-[<img alt="React" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=reactnative&logoColor=%2361DAFB"/>](https://reactnative.dev/)
-[<img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23593d88.svg?&style=for-the-badge&logo=react&logoColor=white"/>](https://redux.js.org/) 
+[<img alt="React" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://reactnative.dev/)
+[<img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>](https://redux.js.org/) 
 
 ### Databases
 [<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) 
