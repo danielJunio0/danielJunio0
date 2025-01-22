@@ -3,7 +3,7 @@
 ## 🔧 Technologies and tools
 
 ### Languages
-[<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[<img alt="C#" src="https://img.shields.io/badge/c#%20-%231572B6.svg?&style=for-the-badge&logo=C#&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://developer.mozilla.org/en-US/docs/Web/javascript) 
 [<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
 
