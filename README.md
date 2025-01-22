@@ -3,7 +3,7 @@
 ## 🔧 Technologies and tools
 
 ### Languages
-![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&link=https%3A%2F%2Fdotnet.microsoft.com%2Fpt-br%2F)
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://developer.mozilla.org/en-US/docs/Web/javascript) 
 [<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
 
